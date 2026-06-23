@@ -1,0 +1,14 @@
+{
+    "atharva": {
+        "phone": "1234567890",
+        "email": "a@gmail.com"
+    },
+    "aditya": {
+        "phone": "0987654321",
+        "email": "b@gmail.com"
+    },
+    "hiaty": {
+        "phone": "0980980987",
+        "email": "c@gmail.com"
+    }
+}

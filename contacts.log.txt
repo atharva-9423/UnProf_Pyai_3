@@ -1,0 +1,9 @@
+2026-06-23 16:52:09 - INFO - ===== Contact Management System Started =====
+2026-06-23 16:52:09 - WARNING - Contacts file not found. Starting with empty contacts list.
+2026-06-23 16:52:29 - INFO - Contacts saved successfully (1 contacts).
+2026-06-23 16:52:29 - INFO - New contact added: 'atharva'
+2026-06-23 16:52:45 - INFO - Contacts saved successfully (2 contacts).
+2026-06-23 16:52:45 - INFO - New contact added: 'aditya'
+2026-06-23 16:53:43 - INFO - Contacts saved successfully (3 contacts).
+2026-06-23 16:53:43 - INFO - New contact added: 'hiaty'
+2026-06-23 16:53:47 - INFO - Displaying all 3 contacts.
