@@ -29,3 +29,5 @@ Pick an option from the menu and go. That's it.
 ✅ Never crashes — corrupted files are handled gracefully  
 ✅ Full activity log in `contacts.log`  
 ✅ Custom exceptions for clean error messages
+
+Linkedin : https://www.linkedin.com/in/atharva-phatangare
