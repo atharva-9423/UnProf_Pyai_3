@@ -30,4 +30,4 @@ Pick an option from the menu and go. That's it.
 ✅ Full activity log in `contacts.log`  
 ✅ Custom exceptions for clean error messages
 
-Linkedin : https://www.linkedin.com/in/atharva-phatangare
+Linkedin post: https://www.linkedin.com/posts/atharva-phatangare_python-programming-softwaredevelopment-share-7475231587790397440-zcC6/?utm_source=share&utm_medium=member_android&rcm=ACoAAF1_LpgBn63I5t6BRYOZ2YCZw18uGIgUFlg
